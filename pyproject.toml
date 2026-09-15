@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promptlab"
+version = "0.1.0"
+description = "Versioned prompt evaluations and regression tracking"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi==0.162.0",
+  "uvicorn==0.54.0",
+  "httpx==0.28.1",
+  "pytest==9.2.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["promptlab*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

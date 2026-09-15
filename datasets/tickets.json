@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "bug-01-01",
+    "input": "Urgent: The app has a crash on launch. From my laptop.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-01-02",
+    "input": "The app has a crash on launch. From my phone.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-01-03",
+    "input": "Urgent: The app has a crash on launch. Using the web app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-01-04",
+    "input": "The app has a crash on launch. For my team.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-01-05",
+    "input": "Urgent: The app has a crash on launch. On my personal workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-01-06",
+    "input": "The app has a crash on launch. After signing up.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-01-07",
+    "input": "Urgent: The app has a crash on launch. Since this morning.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-01-08",
+    "input": "The app has a crash on launch. On my desktop.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-01-09",
+    "input": "Urgent: The app has a crash on launch. Using the latest app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-01-10",
+    "input": "The app has a crash on launch. For our shared workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-02-01",
+    "input": "Urgent: I see an error opening settings. From my laptop.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-02-02",
+    "input": "I see an error opening settings. From my phone.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-02-03",
+    "input": "Urgent: I see an error opening settings. Using the web app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-02-04",
+    "input": "I see an error opening settings. For my team.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-02-05",
+    "input": "Urgent: I see an error opening settings. On my personal workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-02-06",
+    "input": "I see an error opening settings. After signing up.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-02-07",
+    "input": "Urgent: I see an error opening settings. Since this morning.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-02-08",
+    "input": "I see an error opening settings. On my desktop.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-02-09",
+    "input": "Urgent: I see an error opening settings. Using the latest app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-02-10",
+    "input": "I see an error opening settings. For our shared workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-03-01",
+    "input": "Urgent: The search is broken. From my laptop.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-03-02",
+    "input": "The search is broken. From my phone.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-03-03",
+    "input": "Urgent: The search is broken. Using the web app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-03-04",
+    "input": "The search is broken. For my team.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-03-05",
+    "input": "Urgent: The search is broken. On my personal workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-03-06",
+    "input": "The search is broken. After signing up.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-03-07",
+    "input": "Urgent: The search is broken. Since this morning.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-03-08",
+    "input": "The search is broken. On my desktop.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-03-09",
+    "input": "Urgent: The search is broken. Using the latest app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-03-10",
+    "input": "The search is broken. For our shared workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-04-01",
+    "input": "Urgent: The editor will freeze after saving. From my laptop.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-04-02",
+    "input": "The editor will freeze after saving. From my phone.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-04-03",
+    "input": "Urgent: The editor will freeze after saving. Using the web app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-04-04",
+    "input": "The editor will freeze after saving. For my team.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-04-05",
+    "input": "Urgent: The editor will freeze after saving. On my personal workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-04-06",
+    "input": "The editor will freeze after saving. After signing up.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-04-07",
+    "input": "Urgent: The editor will freeze after saving. Since this morning.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-04-08",
+    "input": "The editor will freeze after saving. On my desktop.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-04-09",
+    "input": "Urgent: The editor will freeze after saving. Using the latest app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-04-10",
+    "input": "The editor will freeze after saving. For our shared workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-05-01",
+    "input": "Urgent: There is a defect in the toolbar. From my laptop.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-05-02",
+    "input": "There is a defect in the toolbar. From my phone.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-05-03",
+    "input": "Urgent: There is a defect in the toolbar. Using the web app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-05-04",
+    "input": "There is a defect in the toolbar. For my team.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-05-05",
+    "input": "Urgent: There is a defect in the toolbar. On my personal workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-05-06",
+    "input": "There is a defect in the toolbar. After signing up.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-05-07",
+    "input": "Urgent: There is a defect in the toolbar. Since this morning.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-05-08",
+    "input": "There is a defect in the toolbar. On my desktop.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "bug-05-09",
+    "input": "Urgent: There is a defect in the toolbar. Using the latest app.",
+    "expected": {
+      "category": "bug",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "bug-05-10",
+    "input": "There is a defect in the toolbar. For our shared workspace.",
+    "expected": {
+      "category": "bug",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-01-01",
+    "input": "Urgent: Please explain my invoice. From my laptop.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-01-02",
+    "input": "Please explain my invoice. From my phone.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-01-03",
+    "input": "Urgent: Please explain my invoice. Using the web app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-01-04",
+    "input": "Please explain my invoice. For my team.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-01-05",
+    "input": "Urgent: Please explain my invoice. On my personal workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-01-06",
+    "input": "Please explain my invoice. After signing up.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-01-07",
+    "input": "Urgent: Please explain my invoice. Since this morning.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-01-08",
+    "input": "Please explain my invoice. On my desktop.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-01-09",
+    "input": "Urgent: Please explain my invoice. Using the latest app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-01-10",
+    "input": "Please explain my invoice. For our shared workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-02-01",
+    "input": "Urgent: I need a refund for last month. From my laptop.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-02-02",
+    "input": "I need a refund for last month. From my phone.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-02-03",
+    "input": "Urgent: I need a refund for last month. Using the web app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-02-04",
+    "input": "I need a refund for last month. For my team.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-02-05",
+    "input": "Urgent: I need a refund for last month. On my personal workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-02-06",
+    "input": "I need a refund for last month. After signing up.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-02-07",
+    "input": "Urgent: I need a refund for last month. Since this morning.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-02-08",
+    "input": "I need a refund for last month. On my desktop.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-02-09",
+    "input": "Urgent: I need a refund for last month. Using the latest app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-02-10",
+    "input": "I need a refund for last month. For our shared workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-03-01",
+    "input": "Urgent: There is an unexpected charge. From my laptop.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-03-02",
+    "input": "There is an unexpected charge. From my phone.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-03-03",
+    "input": "Urgent: There is an unexpected charge. Using the web app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-03-04",
+    "input": "There is an unexpected charge. For my team.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-03-05",
+    "input": "Urgent: There is an unexpected charge. On my personal workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-03-06",
+    "input": "There is an unexpected charge. After signing up.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-03-07",
+    "input": "Urgent: There is an unexpected charge. Since this morning.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-03-08",
+    "input": "There is an unexpected charge. On my desktop.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-03-09",
+    "input": "Urgent: There is an unexpected charge. Using the latest app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-03-10",
+    "input": "There is an unexpected charge. For our shared workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-04-01",
+    "input": "Urgent: My payment was declined. From my laptop.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-04-02",
+    "input": "My payment was declined. From my phone.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-04-03",
+    "input": "Urgent: My payment was declined. Using the web app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-04-04",
+    "input": "My payment was declined. For my team.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-04-05",
+    "input": "Urgent: My payment was declined. On my personal workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-04-06",
+    "input": "My payment was declined. After signing up.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-04-07",
+    "input": "Urgent: My payment was declined. Since this morning.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-04-08",
+    "input": "My payment was declined. On my desktop.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-04-09",
+    "input": "Urgent: My payment was declined. Using the latest app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-04-10",
+    "input": "My payment was declined. For our shared workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-05-01",
+    "input": "Urgent: Please cancel my subscription. From my laptop.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-05-02",
+    "input": "Please cancel my subscription. From my phone.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-05-03",
+    "input": "Urgent: Please cancel my subscription. Using the web app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-05-04",
+    "input": "Please cancel my subscription. For my team.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-05-05",
+    "input": "Urgent: Please cancel my subscription. On my personal workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-05-06",
+    "input": "Please cancel my subscription. After signing up.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-05-07",
+    "input": "Urgent: Please cancel my subscription. Since this morning.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-05-08",
+    "input": "Please cancel my subscription. On my desktop.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "billing-05-09",
+    "input": "Urgent: Please cancel my subscription. Using the latest app.",
+    "expected": {
+      "category": "billing",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "billing-05-10",
+    "input": "Please cancel my subscription. For our shared workspace.",
+    "expected": {
+      "category": "billing",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-01-01",
+    "input": "Urgent: Please add a feature for folders. From my laptop.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-01-02",
+    "input": "Please add a feature for folders. From my phone.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-01-03",
+    "input": "Urgent: Please add a feature for folders. Using the web app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-01-04",
+    "input": "Please add a feature for folders. For my team.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-01-05",
+    "input": "Urgent: Please add a feature for folders. On my personal workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-01-06",
+    "input": "Please add a feature for folders. After signing up.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-01-07",
+    "input": "Urgent: Please add a feature for folders. Since this morning.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-01-08",
+    "input": "Please add a feature for folders. On my desktop.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-01-09",
+    "input": "Urgent: Please add a feature for folders. Using the latest app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-01-10",
+    "input": "Please add a feature for folders. For our shared workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-02-01",
+    "input": "Urgent: I would like a CSV export. From my laptop.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-02-02",
+    "input": "I would like a CSV export. From my phone.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-02-03",
+    "input": "Urgent: I would like a CSV export. Using the web app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-02-04",
+    "input": "I would like a CSV export. For my team.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-02-05",
+    "input": "Urgent: I would like a CSV export. On my personal workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-02-06",
+    "input": "I would like a CSV export. After signing up.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-02-07",
+    "input": "Urgent: I would like a CSV export. Since this morning.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-02-08",
+    "input": "I would like a CSV export. On my desktop.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-02-09",
+    "input": "Urgent: I would like a CSV export. Using the latest app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-02-10",
+    "input": "I would like a CSV export. For our shared workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-03-01",
+    "input": "Urgent: Please add a calendar integration. From my laptop.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-03-02",
+    "input": "Please add a calendar integration. From my phone.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-03-03",
+    "input": "Urgent: Please add a calendar integration. Using the web app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-03-04",
+    "input": "Please add a calendar integration. For my team.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-03-05",
+    "input": "Urgent: Please add a calendar integration. On my personal workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-03-06",
+    "input": "Please add a calendar integration. After signing up.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-03-07",
+    "input": "Urgent: Please add a calendar integration. Since this morning.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-03-08",
+    "input": "Please add a calendar integration. On my desktop.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-03-09",
+    "input": "Urgent: Please add a calendar integration. Using the latest app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-03-10",
+    "input": "Please add a calendar integration. For our shared workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-04-01",
+    "input": "Urgent: Can you add dark mode? From my laptop.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-04-02",
+    "input": "Can you add dark mode? From my phone.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-04-03",
+    "input": "Urgent: Can you add dark mode? Using the web app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-04-04",
+    "input": "Can you add dark mode? For my team.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-04-05",
+    "input": "Urgent: Can you add dark mode? On my personal workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-04-06",
+    "input": "Can you add dark mode? After signing up.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-04-07",
+    "input": "Urgent: Can you add dark mode? Since this morning.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-04-08",
+    "input": "Can you add dark mode? On my desktop.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-04-09",
+    "input": "Urgent: Can you add dark mode? Using the latest app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-04-10",
+    "input": "Can you add dark mode? For our shared workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-05-01",
+    "input": "Urgent: Please support a keyboard shortcut. From my laptop.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-05-02",
+    "input": "Please support a keyboard shortcut. From my phone.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-05-03",
+    "input": "Urgent: Please support a keyboard shortcut. Using the web app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-05-04",
+    "input": "Please support a keyboard shortcut. For my team.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-05-05",
+    "input": "Urgent: Please support a keyboard shortcut. On my personal workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-05-06",
+    "input": "Please support a keyboard shortcut. After signing up.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-05-07",
+    "input": "Urgent: Please support a keyboard shortcut. Since this morning.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-05-08",
+    "input": "Please support a keyboard shortcut. On my desktop.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "feature-05-09",
+    "input": "Urgent: Please support a keyboard shortcut. Using the latest app.",
+    "expected": {
+      "category": "feature",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "feature-05-10",
+    "input": "Please support a keyboard shortcut. For our shared workspace.",
+    "expected": {
+      "category": "feature",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-01-01",
+    "input": "Urgent: I forgot my password. From my laptop.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-01-02",
+    "input": "I forgot my password. From my phone.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-01-03",
+    "input": "Urgent: I forgot my password. Using the web app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-01-04",
+    "input": "I forgot my password. For my team.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-01-05",
+    "input": "Urgent: I forgot my password. On my personal workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-01-06",
+    "input": "I forgot my password. After signing up.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-01-07",
+    "input": "Urgent: I forgot my password. Since this morning.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-01-08",
+    "input": "I forgot my password. On my desktop.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-01-09",
+    "input": "Urgent: I forgot my password. Using the latest app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-01-10",
+    "input": "I forgot my password. For our shared workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-02-01",
+    "input": "Urgent: My login does not work. From my laptop.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-02-02",
+    "input": "My login does not work. From my phone.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-02-03",
+    "input": "Urgent: My login does not work. Using the web app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-02-04",
+    "input": "My login does not work. For my team.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-02-05",
+    "input": "Urgent: My login does not work. On my personal workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-02-06",
+    "input": "My login does not work. After signing up.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-02-07",
+    "input": "Urgent: My login does not work. Since this morning.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-02-08",
+    "input": "My login does not work. On my desktop.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-02-09",
+    "input": "Urgent: My login does not work. Using the latest app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-02-10",
+    "input": "My login does not work. For our shared workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-03-01",
+    "input": "Urgent: I cannot sign in. From my laptop.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-03-02",
+    "input": "I cannot sign in. From my phone.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-03-03",
+    "input": "Urgent: I cannot sign in. Using the web app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-03-04",
+    "input": "I cannot sign in. For my team.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-03-05",
+    "input": "Urgent: I cannot sign in. On my personal workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-03-06",
+    "input": "I cannot sign in. After signing up.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-03-07",
+    "input": "Urgent: I cannot sign in. Since this morning.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-03-08",
+    "input": "I cannot sign in. On my desktop.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-03-09",
+    "input": "Urgent: I cannot sign in. Using the latest app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-03-10",
+    "input": "I cannot sign in. For our shared workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-04-01",
+    "input": "Urgent: Please update my profile. From my laptop.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-04-02",
+    "input": "Please update my profile. From my phone.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-04-03",
+    "input": "Urgent: Please update my profile. Using the web app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-04-04",
+    "input": "Please update my profile. For my team.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-04-05",
+    "input": "Urgent: Please update my profile. On my personal workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-04-06",
+    "input": "Please update my profile. After signing up.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-04-07",
+    "input": "Urgent: Please update my profile. Since this morning.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-04-08",
+    "input": "Please update my profile. On my desktop.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-04-09",
+    "input": "Urgent: Please update my profile. Using the latest app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-04-10",
+    "input": "Please update my profile. For our shared workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-05-01",
+    "input": "Urgent: I never received verification. From my laptop.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-05-02",
+    "input": "I never received verification. From my phone.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-05-03",
+    "input": "Urgent: I never received verification. Using the web app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-05-04",
+    "input": "I never received verification. For my team.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-05-05",
+    "input": "Urgent: I never received verification. On my personal workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-05-06",
+    "input": "I never received verification. After signing up.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-05-07",
+    "input": "Urgent: I never received verification. Since this morning.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-05-08",
+    "input": "I never received verification. On my desktop.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  },
+  {
+    "id": "account-05-09",
+    "input": "Urgent: I never received verification. Using the latest app.",
+    "expected": {
+      "category": "account",
+      "priority": "high"
+    }
+  },
+  {
+    "id": "account-05-10",
+    "input": "I never received verification. For our shared workspace.",
+    "expected": {
+      "category": "account",
+      "priority": "normal"
+    }
+  }
+]
