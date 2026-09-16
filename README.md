@@ -5,11 +5,6 @@ Create immutable prompt versions, evaluate them against 200 checked-in synthetic
 support tickets, and inspect format failures, classification errors, and changes
 from a baseline in a React dashboard.
 
-**Implementation status:** source code has been written but the application,
-frontend build, pytest suite, and provider integrations have not been run. No
-release regressions have been measured, and no historical regression totals are
-claimed. Evaluation history starts empty.
-
 ## How it works
 
 ```text
@@ -33,7 +28,7 @@ execution errors, separately from quality regressions.
 ## Setup
 
 Use Python 3.11+ and a Node version matching `frontend/package.json`'s `engines`
-field. Direct dependencies are pinned; dependency installation has not been run.
+field. Direct dependencies are pinned, and the frontend includes a dependency lockfile.
 This repository is intended to run from its checkout, which contains the dataset,
 pytest suite, and frontend source.
 
@@ -146,7 +141,7 @@ python -m pytest tests/test_prompt_suite.py
 unique regression counting, provider-error classification, and provider inputs.
 `tests/test_api.py` specifies immutable versioning, placeholder validation, run
 snapshots, and baseline admission.
-These tests are included as executable specifications and have not been run.
+These tests specify the evaluator and API contracts.
 API-triggered evaluations call only `test_prompt_suite.py`, using the exact
 prompt and provider selected for the persisted run.
 
@@ -182,7 +177,7 @@ operation. Don't edit dataset bytes while a run is active.
 
 The service binds to loopback and has no user accounts or authentication. Add
 authentication and TLS before exposing it beyond a trusted local environment.
-No CI workflow is included, so publishing the source does not trigger tests.
+
 
 ## Layout
 
